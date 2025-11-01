@@ -18,6 +18,7 @@ This project was created as a practice app to understand CRUD operations, React 
 ✅ Fully responsive UI  
 ✅ MongoDB database support  
 ✅ Structured API
+<img width="1366" height="994" alt="Pass-Manager" src="https://github.com/user-attachments/assets/4ce912c7-1a26-4b5c-bd63-9194887d67bd" />
 
 ---
 
