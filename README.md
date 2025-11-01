@@ -42,8 +42,7 @@ This project was created as a practice app to understand CRUD operations, React 
 
 ### **1. Clone the Repository**
 ```bash
-git clone https://github.com/Zohaib Ahmad/PASSWORD-MANAGER.git
-cd PASSWORD-MANAGER
+git clone https://github.com/ZohaibAhmad01/Pass-Manager.git
 
 
 
